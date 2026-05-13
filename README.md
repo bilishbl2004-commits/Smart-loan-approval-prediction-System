@@ -174,7 +174,7 @@ Smart-Loan-Approval-System/
 
 
 ## Live Demo
-[Open Streamlit App]([YOUR_STREAMLIT_LINK](http://10.71.71.63:8501))
+[Open Streamlit App]([YOUR_STREAMLIT_LINK](http://10.71.71.63:8501)
 
 ---
 
